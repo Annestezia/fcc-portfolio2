@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/fcc-portfolio2/static/css/main.3f830548.chunk.css",
+    "main.js": "/fcc-portfolio2/static/js/main.b6b5238f.chunk.js",
+    "main.js.map": "/fcc-portfolio2/static/js/main.b6b5238f.chunk.js.map",
+    "runtime-main.js": "/fcc-portfolio2/static/js/runtime-main.5a8f19a1.js",
+    "runtime-main.js.map": "/fcc-portfolio2/static/js/runtime-main.5a8f19a1.js.map",
+    "static/js/2.f8dcf2bc.chunk.js": "/fcc-portfolio2/static/js/2.f8dcf2bc.chunk.js",
+    "static/js/2.f8dcf2bc.chunk.js.map": "/fcc-portfolio2/static/js/2.f8dcf2bc.chunk.js.map",
+    "static/js/3.f0867301.chunk.js": "/fcc-portfolio2/static/js/3.f0867301.chunk.js",
+    "static/js/3.f0867301.chunk.js.map": "/fcc-portfolio2/static/js/3.f0867301.chunk.js.map",
+    "index.html": "/fcc-portfolio2/index.html",
+    "static/css/main.3f830548.chunk.css.map": "/fcc-portfolio2/static/css/main.3f830548.chunk.css.map",
+    "static/js/2.f8dcf2bc.chunk.js.LICENSE.txt": "/fcc-portfolio2/static/js/2.f8dcf2bc.chunk.js.LICENSE.txt",
+    "static/media/js-calc-preview.94496d46.png": "/fcc-portfolio2/static/media/js-calc-preview.94496d46.png",
+    "static/media/me.6ea9e046.png": "/fcc-portfolio2/static/media/me.6ea9e046.png",
+    "static/media/wiki-viewer-preview.27ba467e.png": "/fcc-portfolio2/static/media/wiki-viewer-preview.27ba467e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a8f19a1.js",
+    "static/js/2.f8dcf2bc.chunk.js",
+    "static/css/main.3f830548.chunk.css",
+    "static/js/main.b6b5238f.chunk.js"
+  ]
+}
